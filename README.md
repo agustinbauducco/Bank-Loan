@@ -5,7 +5,7 @@ Analyze borrower behavior and identify the main factors associated with loan def
 
 ## Key Results
 - Previous default history showed the strongest relationship with future default behavior.
-- Housing status, income level, and credit score also revealed important risk patterns.
+- Housing status, income level, loan-to-income ratio and credit score also revealed important risk patterns.
 - The predictive model reached **~88% overall accuracy** and identified **~72% of default cases**.
 
 ## Final Conclusions
