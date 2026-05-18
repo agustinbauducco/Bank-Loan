@@ -9,5 +9,6 @@ Analyze borrower behavior and identify the main factors associated with loan def
 - The predictive model reached **~88% overall accuracy** and identified **~72% of default cases**.
 
 ## Final Conclusions
-Credit history is the most relevant variable for predicting default risk.  
-The model can support early risk detection and potentially reduce financial losses by improving loan approval and monitoring decisions.
+- Credit history is the most relevant variable for predicting default risk.  
+- The model can support early risk detection and potentially reduce financial losses by improving loan approval and monitoring decisions.
+- This model resulted in savings of approximately $241,495,632.
